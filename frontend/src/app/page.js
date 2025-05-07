@@ -59,7 +59,7 @@ export default function Home() {
 
   return (
     <main style={{ padding: "2rem" }}>
-      <h1>📝 To-Do List</h1>
+      <h1>📝 To-Do List FutureMe</h1>
 
       <div style={{ marginBottom: "1rem" }}>
         <input
