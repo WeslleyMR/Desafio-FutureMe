@@ -2,9 +2,6 @@
 
 Uma aplicação full stack para gerenciar tarefas do dia a dia, inspirada no estilo visual da [FutureMe.tech](https://www.futureme.tech).
 
-## 🔗 Acesse o projeto
-
-[➡️ futurame-list.vercel.app](https://futurame-list.vercel.app)
 
 ## ✨ Funcionalidades
 
@@ -23,7 +20,6 @@ Uma aplicação full stack para gerenciar tarefas do dia a dia, inspirada no est
 * [Next.js](https://nextjs.org/)
 * [React](https://react.dev/)
 * [Tailwind CSS](https://tailwindcss.com/)
-* [Vercel](https://vercel.com/) (Deploy)
 
 ### Backend
 
