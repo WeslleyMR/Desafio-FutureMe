@@ -72,7 +72,7 @@ export default function Home() {
         <button onClick={addTask}>Adicionar</button>
       </div>
 
-      <ul>
+      <ul className="list-group list-unstyled">
         {tasks.map((task) => (
           <li key={task._id} style={{ marginBottom: "0.5rem" }}>
             <input
