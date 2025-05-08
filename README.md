@@ -19,7 +19,7 @@ Uma aplicação full stack para gerenciar tarefas do dia a dia, inspirada no est
 
 * [Next.js](https://nextjs.org/)
 * [React](https://react.dev/)
-* [Tailwind CSS](https://tailwindcss.com/)
+* [Bootstrap](https://getbootstrap.com)
 
 ### Backend
 
