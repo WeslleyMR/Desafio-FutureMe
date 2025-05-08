@@ -4,7 +4,7 @@ Uma aplicação full stack para gerenciar tarefas do dia a dia, inspirada no est
 
 ## 🔗 Acesse o projeto
 
-[➡️ futurame-list.vercel.app](https://futurame-list.vercel.app) *(ou o link do seu deploy)*
+[➡️ futurame-list.vercel.app](https://futurame-list.vercel.app)
 
 ## ✨ Funcionalidades
 
